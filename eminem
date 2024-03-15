@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>eminem</title>
+    <hr>
+    <style>
+      h1 {
+        color: red;
+      }
+      p {
+        color: rgb(0, 0, 0);
+      }
+    body {
+      background-color: rgb(23, 111, 110);
+    }
+   </style>
+  </head>
+  <body>
+</head>
+<body>
+   <h1>eminem</h1>
+   <p>
+    info about eminem:
+    <hr><br>he is from the U.S.,he was born in 17th of october
+    1972,he was a white rapper and that made it hard for him,so he made the
+    song the real slim shady in his first album,and in his second album he
+    went to california with his C.D and he met dr.dre on the theater,<br>and
+    because he is white dr.dre told him this is his last chance to shine and
+    if the fans did not love him he can't sing ever again in his life so he
+    made the song lose yourself about his journey,and because his wife went to
+    jail he made a song for his daughter because she wont stop crying called
+    mockingbird. and he made 344 songs. and his fastest song called rap god
+    and because of this song he got an award called rap god.
+  </p>
+  <hr>
+  <img src="https://hips.hearstapps.com/hmg-prod/images/eminem-a-k-a-marshall-bruce-mathers-iii-attends-a-ceremony-news-photo-1698936282.jpg?crop=1.00xw:0.667xh;0,0.0380xh&resize=640:*" alt="">
+  <img src="https://nypost.com/wp-content/uploads/sites/2/2019/10/gettyimages-187596325.jpg?quality=75&strip=all&w=744" alt="">
+  <img src="https://media.npr.org/assets/music/news/2010/06/eminem_wide-9bf03a4bfc100c7218ffa3c8d9f8099bcc994bff-s1400-c100.jpg" alt="">
+</body>
+</html>

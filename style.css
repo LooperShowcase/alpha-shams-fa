@@ -1,0 +1,57 @@
+h1 {
+  color: red;
+}
+p {
+  color: rgb(0, 0, 0);
+}
+body {
+  background-color: rgb(23, 111, 110);
+}
+
+h1 {
+  color: rgb(234, 223, 57);
+}
+p {
+  color: rgb(1, 0, 0);
+}
+body {
+  font-family: "Protest Riot", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#header {
+  background-color: black;
+}
+#second header {
+  background-color: rgb(23, 111, 110);
+}
+#info {
+  background-color: bisque;
+}
+img {
+  border-radius: 100px;
+}
+
+.ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.li {
+  float: left;
+}
+
+.li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.li a:hover {
+  background-color: #111;
+}
